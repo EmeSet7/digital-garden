@@ -1,0 +1,2 @@
+# Life-notes
+MkDocs garden
