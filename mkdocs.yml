@@ -1,0 +1,15 @@
+site_name: My Life Notes
+theme:
+  name: material
+
+nav:
+  - Home: index.md
+  - Games:
+      - To Play: games/todo.md
+      - Progress Log: games/log.md
+  - Movies:
+      - Watchlist: movies/watchlist.md
+  - Projects:
+      - Dev Journal: projects/devlog.md
+  - Journal:
+      - Thoughts: journal/index.md
