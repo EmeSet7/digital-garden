@@ -1,19 +1,18 @@
 site_name: My Life Notes
 theme:
+  features:
+    - navigation.instant
+    - navigation.tracking
+    - navigation.sections
+    - toc.integrate
   name: material
   palette:
-    - scheme: default
-      primary: indigo      # main color (light mode)
-      accent: pink         # highlight color
-      toggle:
-        icon: material/weather-night
-        name: Switch to dark mode
     - scheme: slate
-      primary: indigo      # main color (dark mode)
-      accent: pink
-      toggle:
-        icon: material/weather-sunny
-        name: Switch to light mode
+      primary: grey
+      accent: light blue
+    - scheme: default
+      primary: blue grey
+      accent: light blue
 
 nav:
   - Home: index.md
