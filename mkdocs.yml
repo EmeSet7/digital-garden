@@ -4,3 +4,4 @@ theme:
 
 nav:
   - Home: index.md
+  - Games: gaming/df.md
