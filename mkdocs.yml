@@ -1,7 +1,23 @@
 site_name: My Life Notes
 theme:
   name: material
+  palette:
+    - scheme: default
+      primary: indigo      # main color (light mode)
+      accent: pink         # highlight color
+      toggle:
+        icon: material/weather-night
+        name: Switch to dark mode
+    - scheme: slate
+      primary: indigo      # main color (dark mode)
+      accent: pink
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to light mode
 
 nav:
   - Home: index.md
-  - Games: gaming/df.md
+  - Games: 
+    - Journal: gaming/df.md
+
+
