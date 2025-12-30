@@ -1,6 +1,6 @@
 #testing
 
-##more testing
+##more testing first relevante pop up?
 
 hello again 😎
 
@@ -11,11 +11,14 @@ So stick around and write me at: (to be announced)
 
 also, table testing:
 
+##table
+
 First Header | Second Header | Third Header
 :----------- |:-------------:| -----------:
 Left         | Center        | Right
 Left         | Center        | Right
 
+##paragraph?
 
 also wabt some new line stuff-  
 like this?  
