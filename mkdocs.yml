@@ -1,11 +1,6 @@
 site_name: My Life Notes
-docs_dir: .
 theme:
   name: material
 
 nav:
   - Home: index.md
-  - Games:
-      - To Play: game/df.md
-  - Journal:
-      - Main page: index.md
