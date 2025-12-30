@@ -6,6 +6,6 @@ theme:
 nav:
   - Home: index.md
   - Games:
-      - To Play: games/df.md
+      - To Play: game/df.md
   - Journal:
       - Main page: index.md
