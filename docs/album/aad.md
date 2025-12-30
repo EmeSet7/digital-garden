@@ -1,5 +1,7 @@
 #Album a Day
+
 ##Guidelines
+
 -At least an album a day for the week, meaning that each week has a minimum of 7 albums, Saturdays and Sundays may become difficult to research and listen to an album so those 2 albums from those days might be picked up earlier in the week
 -Research will ve conducted in the "Album of the Year" website, were I will ve picking an album from the top 10 to 25 from each year for a diferent decade each 2 months, so:
   January and February will be 1970s for day 1 lets say I pick one from the top ten of 1970, day 2 from 1971, amd so one without skipping a year so from 1970 to 79 in 60 days, in order, no maximum per year, at least one each year
@@ -11,8 +13,9 @@
 -Musicboard must also ve logged and a Spotify playlist will be updated as soon as possible with the favorites (libk for it soon)
 -Rules qill be added as neeeded but never changed or vent, its not a challenge if we modify the rules as we please
 
-#Links for lists and Sporify playlist
+##Links for lists and Sporify playlist.  
+-
 
 -
--
+
 -
