@@ -7,12 +7,9 @@ theme:
     - toc.integrate
   name: material
   palette:
-    - scheme: slate
-      primary: grey
-      accent: light blue
     - scheme: default
-      primary: blue grey
-      accent: light blue
+      primary: grey
+      accent: black
 
 nav:
   - Home: index.md
