@@ -7,7 +7,7 @@ theme:
     - toc.integrate
   name: material
   palette:
-    - scheme: default
+    - scheme: slate
       primary: grey
       accent: black
 
