@@ -1,1 +1,8 @@
+#testing
+##more testing
 hello again 😎
+
+Welcome to my digital garden, as ChatGPT called it
+Here you can find various resources and informations avout different subjects, from modding (homebrew) to recipes
+I qill be adding stuff here, hopefully daily as I plan to start yet again the "Album a Day" challenge for 2026
+So stick around and write me at: (to be announced)
