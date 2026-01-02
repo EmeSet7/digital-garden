@@ -13,6 +13,8 @@ theme:
 
 nav:
   - Home: index.md
+  - Formula 1:
+    - 2025: f1/f1.md
   - Music:
     - An Album a Day: album/aad.md
     - The Best: album/top.md
