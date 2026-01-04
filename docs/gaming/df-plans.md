@@ -1,7 +1,8 @@
 # Fortress Plan
 
-```mermaid
+```mermaid  
 flowchart LR
+
     A1[" "] --- A2["Farm"] --- A3[" "]
     B1[" "] --- B2["Stairs"] --- B3[" "]
     C1[" "] --- C2["Magma"] --- C3[" "]
