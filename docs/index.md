@@ -1,8 +1,4 @@
-#testing
-
-##more testing first relevante pop up?
-
-hello again 😎
+# Digital Garden
 
 Welcome to my digital garden, as ChatGPT called it
 Here you can find various resources and informations avout different subjects, from modding (homebrew) to recipes
@@ -11,16 +7,7 @@ So stick around and write me at: (to be announced)
 
 also, table testing:
 
-##table
-
 First Header | Second Header | Third Header
 :----------- |:-------------:| -----------:
 Left         | Center        | Right
 Left         | Center        | Right
-
-##paragraph?
-
-also wabt some new line stuff-  
-like this?  
-dont know. 
-yes😎
