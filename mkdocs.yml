@@ -14,15 +14,16 @@ theme:
 
 nav:
   - Home: index.md
-  - Formula 1: f1/index.md
+  - Formula 1:
+    - F1: f1/index.md
     - 2025: f1/f1-2025.md
     - 2026: f1/f1-2026.md
-  - Music: album/aad.md
+  - Music:
     - An Album a Day: album/aad-2026.md
     - The Best: album/top.md
-  - Games: 
+  - Games:
     - Dwarf Fortress: gaming/df.md
-      - Risenhames (Active): gaming/df-risenhames.md
+    - Risenhames (Active): gaming/df-risenhames.md
     - DF plans: gaming/df-plans.md
     - Motor Town: gaming/mtown.md
 
