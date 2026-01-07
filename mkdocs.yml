@@ -2,9 +2,9 @@ site_name: Digital Garden
 
 theme:
   features:
-    - navigation.tabs
-    - navigation.tabs.sticky
-    - navigation.sections
+   - navigation.sections
+    - navigation.expand
+    - navigation.tracking
     - toc.integrate
   name: material
   palette:
