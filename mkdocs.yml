@@ -16,8 +16,8 @@ nav:
   - Home: index.md
   - Formula 1: f1/index.md
     - 2025: f1/f1-2025.md
-  - Music:
-    - An Album a Day: album/aad.md
+  - Music: album/aad.md
+    - An Album a Day: album/aad-2026.md
     - The Best: album/top.md
   - Games: 
     - Dwarf Fortress: gaming/df.md
