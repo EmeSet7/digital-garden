@@ -69,10 +69,6 @@ A bunch of dingos appeared and apparentlly some tried to enter the fort, one was
 It's time to hide inside given this "attack", 11 dingos on the loose, 1 more caged  
 The population hidden for a bit but the dingos didn't seem that great of a threat so they will keep an eye of each other but free to work again  
 
-### Winter
-
-
-
 #### Infrastrures
 
 The downstairs "fort" is going well, is being planned all the way, oak floors, feather wood in the rooms, smooth walls, nice doors (all the same materials). It's going along  
@@ -92,4 +88,14 @@ They arrived just in time, more working hands were indeed needed. Dormitory need
 
 The dogs made puppies, one puppy but, enough for now  
 Soon after 2 more puppies born, it was more that one after all  
+
+### Winter
+
+#### Animals
+
+Very uneventful winter, a cat has grown up and the rooms construction on the lower floor is coming along, soon some bed rooms will be assigned
+Now the dingo, the caged and being trained in our fort one is picking a fight, on the first interaction we stay put but ready, the squad was called
+Soon after, said dingo, reverted to wild so... time to take it out  
+Some open arteries and severed parts later the dingo is dealt with, all normal again  
+Some stuff happened after all  
 
