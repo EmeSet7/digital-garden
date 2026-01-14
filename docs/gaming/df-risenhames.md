@@ -4,7 +4,7 @@
 - Civilization: The Blotted Construct
 - Leader: Lorbam Sharkrings, 55 M
 
-### Year 100
+## Year 100
 
 ### Spring
 
@@ -30,7 +30,7 @@ Stray dog has matured, bredding of dogs is now possible.
 
 War dog training into consideration.  
 
-#### Summer
+## Summer
 
 #### Infrastructure
 
