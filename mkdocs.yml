@@ -1,14 +1,12 @@
 site_name: Digital Garden
 
-markdown_extensions:
-  - attr_list
-
 theme:
   features:
    - navigation.sections
     - navigation.expand
     - navigation.tracking
     - toc.integrate
+    
   name: material
   palette:
     - scheme: slate
