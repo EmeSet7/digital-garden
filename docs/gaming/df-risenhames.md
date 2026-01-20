@@ -9,7 +9,7 @@
 
 ### Spring
 
--Infrastructure-
+<h3>Infrastructure</h3>
 
 Entrance to the fort.  
 Dormitory, small farm plot, still and small workshop (stone and wood work) was established.  
