@@ -156,5 +156,5 @@ One more raid there, pillage the place for good
 
 The squad brought home a scroll, the first literature in our community, it's a win to their eyes
 
- Another season that no migrants were interested in our community, i don't blame them, valuable items are not being produced, materials are still in the rough
+ Another season that no migrants were interested in our community, I don't blame them, valuable items are not being produced, materials are still in the rough
  
