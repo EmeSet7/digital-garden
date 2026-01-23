@@ -3,15 +3,18 @@ site_name: Digital Garden
 theme:
   features:
    - navigation.sections
-    - navigation.expand
-    - navigation.tracking
-    - toc.integrate
+   - navigation.expand
+   - navigation.tracking
+   - toc.integrate
     
   name: github
   palette:
     - scheme: slate
-      primary: white
+      primary: black
       accent: black
+      
+  highlightjs: true
+  hljs_style: github    
 
 nav:
   - Home: index.md
