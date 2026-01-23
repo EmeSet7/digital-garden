@@ -7,7 +7,7 @@ theme:
     - navigation.tracking
     - toc.integrate
     
-  name: slate
+  name: github
   palette:
     - scheme: slate
       primary: white
