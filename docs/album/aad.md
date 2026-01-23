@@ -1,6 +1,6 @@
-#Album a Day
+# Album a Day
 
-##Guidelines
+## Guidelines
 
 At least an album a day for the week, meaning that each week has a minimum of 7 albums, Saturdays and Sundays may become difficult to research and listen to an album so those 2 albums from those days might be picked up earlier in the week
 
@@ -28,7 +28,7 @@ Rules will be added as neeeded but never changed or vent, its not a challenge if
 
 ![Cover 1](covers/ab67616d00001e02fbcaf7402f38faac27610efc.jpeg)
 
-##Links for lists and stuff
+## Links for lists and stuff
 
 Spotify:
 
