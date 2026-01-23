@@ -7,7 +7,7 @@ theme:
     - navigation.tracking
     - toc.integrate
     
-  name: bootstrap386
+  name: slate
   palette:
     - scheme: slate
       primary: white

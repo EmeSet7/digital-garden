@@ -17,5 +17,5 @@ jobs:
           python-version: "3.x"
       - run: |
           pip install mkdocs
-          pip install mkdocs-bootstrap386
+          pip install mkdocs-bootswatch
       - run: mkdocs gh-deploy --force
