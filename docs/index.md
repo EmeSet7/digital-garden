@@ -5,19 +5,18 @@ Here you can find various resources and information about different subjects, fr
 I will be adding stuff here, hopefully daily as I plan to start yet again the "Album a Day" challenge for 2026  
 So stick around and write me at: (to be announced)
 
-also, table testing:
+#### Links
 
-First Header | Second Header | Third Header
-:----------- |:-------------:| -----------:
-Left         | Center        | Right
-Left         | Center        | Right
-
-
-also, important links:
+These are some important link i want to keep around to now look for them everytime
 
 
 https://pawamoy.github.io/mkdocs-gallery/#material-for-mkdocs
 
 https://emeset7.github.io/digital-garden/
+
+
+#### 2026 update
+
+Album a Day is not happening. Too much work and very little motivation right now for it
 
 
