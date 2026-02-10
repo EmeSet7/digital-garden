@@ -24,9 +24,13 @@ Musicboard must also ve logged and a Spotify playlist will be updated as soon as
 
 Rules will be added as neeeded but never changed or vent, its not a challenge if we modify the rules as we please
 
-![Cover 1](covers/IMG_9209.jpeg)
+## January recap
 
-![Cover 1](covers/ab67616d00001e02fbcaf7402f38faac27610efc.jpeg)
+As you may see if end up here, I made no progress on this.
+I didn't enjoy the research process and the first few I chose weren't that good
+So intead I just listen to whatever and if it gets into my library it gets mentioned. Simple
+So far I have some but need to organize them still
+so in short, forget about an abum a day, it's an album whenever I feel like it and if I like it
 
 ## Links for lists and stuff
 
