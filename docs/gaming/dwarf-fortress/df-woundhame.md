@@ -1,4 +1,9 @@
-# ?? Fortress
+# Woundhame Fortress
+
+- World: "The Oracular Realm"
+- Civilization: 
+- Fortress: Woundhame
+- Expedition Leader: 
 
 ## Year 250
 ### Winter
