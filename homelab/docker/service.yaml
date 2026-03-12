@@ -1,0 +1,53 @@
+name: service
+services:
+
+ ######                             
+ #     #   ##    ####  #    # #   # 
+ #     #  #  #  #      #    #  # #  
+ #     # #    #  ####  ######   #   
+ #     # ######      # #    #   #   
+ #     # #    # #    # #    #   #   
+ ######  #    #  ####  #    #   #  
+ 
+   dashy:
+    image: lissy93/dashy:latest
+    container_name: dashy
+    volumes:
+        - D:\Docker\Dashy\config.yml:/app/user-data/conf.yml        
+    ports:
+        - 9090:8080
+    restart: unless-stopped
+    
+    
+   jellyseerr:
+    container_name: jellyseerr
+    image: ghcr.io/fallenbagel/jellyseerr:latest
+    init: true
+    environment:
+      - LOG_LEVEL=debug
+      - TZ=Europe/Lisbon
+    ports:
+      - 5055:5055
+    volumes:
+      - D:\Docker\Jellyseerr\config:/app/config
+    restart: unless-stopped
+    
+
+   syncthing:
+    image: lscr.io/linuxserver/syncthing:latest
+    container_name: syncthing
+    hostname: syncthing_docker #optional
+    environment:
+      - PUID=1000
+      - PGID=1000
+      - TZ=Europe/Lisbon
+    volumes:
+      - D:\Docker\Syncthing/config:/config
+      - D:\Docker\Syncthing/data:/data
+      - D:\SteamLib:/steam
+    ports:
+      - 8384:8384
+      - 22000:22000/tcp
+      - 22000:22000/udp
+      - 21027:21027/udp
+    restart: unless-stopped

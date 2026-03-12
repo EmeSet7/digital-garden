@@ -1,0 +1,32 @@
+-------------
+pihole
+
+FIX
+2025-08-05 21:47:32.762 WEST [49M] WARNING: Insufficient permissions to set system time (CAP_SYS_TIME required), NTP client not available
+
+FTLCONF_webserver_api_password: &Matilda //not working
+
+-------------
+find disk usage C:
+
+
+--------------
+organize HA
+
+------------
+gameserver
+linuxgsm
+
+https://hub.docker.com/r/gameservermanagers/gameserver
+
+
+----------
+reverse proxy?
+
+
+------------
+
+
+photo, immich?
+
+-----------------
