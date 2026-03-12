@@ -1,4 +1,4 @@
-# Risenhames Fortress (retired)
+# Risenhames Fortress (deleted)
 
 - World: Emeathira "The Eternal Planes"
 - Civilization: The Blotted Construct
