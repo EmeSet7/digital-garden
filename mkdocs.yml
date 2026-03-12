@@ -19,8 +19,7 @@ nav:
   - Games:
     - Intro: gaming/index.md
     - DF Risenhames (Deleted): gaming/dwarf-fortress/df-risenhames.md
-    - DF ?? (Active): gaming/dwarf-fortress/df-workround.md
+    - DF Woundhame (Active): gaming/dwarf-fortress/df-woundhame.md
     - Motor Town: gaming/motortown/mtown.md
   - Homelab:
     - Docker: homelab/docker/index.md
-    
