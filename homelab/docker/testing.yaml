@@ -1,0 +1,10 @@
+name: testing
+services:
+   icloudpd:
+      environment:
+         - TZ=Europe/London
+      image: boredazfcuk/icloudpd
+      volumes:
+         - D:\Docker\iCloudPD\Tiago:/config
+         - E:\Photos\iCloudPD\Tiago:/user
+      restart: always

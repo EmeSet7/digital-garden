@@ -1,0 +1,7 @@
+name: from-scratch
+services:
+    ubuntu:
+        ports:
+            - 10000:10000
+        image: ubuntu
+        
